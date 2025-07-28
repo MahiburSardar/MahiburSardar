@@ -1,4 +1,4 @@
-![logo](https://github.com/MahiburSardar/MahiburSardar/blob/main/000e6c617f2eac48021d0ae1cf95eb6c.gif)
+![logo](https://github.com/MahiburSardar/MahiburSardar/blob/main/Mahibur.png)
 <h1 align="center">Hi 👋, I'm Mahibur Sardar</h1>
 <h3 align="center">A passionate Electrical Engineer from India</h3>
 
